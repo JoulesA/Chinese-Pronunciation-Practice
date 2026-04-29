@@ -1,0 +1,104 @@
+ID,Word,Pronunciation,Meaning,Significado,Context
+1,你好,nǐhǎo,Hello,Hola,Casual
+2,我,wǒ,I,Yo,Casual
+3,你,nǐ,You,Tú,Casual
+4,他,tā,He,Él,Casual
+5,她,tā,She,Ella,Casual
+6,他,tā,It,Él,Casual
+7,我们,wǒmen,Us,Nosotros,Casual
+8,他们,tāmen,They,Ellos,Casual
+9,这,zhè,This,Esto,Casual
+10,那,nà,That,Eso,Casual
+11,那,nà,That,Aquello,Casual
+12,这里,zhèlǐ,Here,Aquí,Casual
+13,在那边,zài nàbian,Over there,Allí,Casual
+14,是的,shì de,Yeah,Sí,Casual
+15,不,bù,No,No,Casual
+16,有,yǒu,Have,Tener,Casual
+17,是,shì,Be,Ser,Casual
+18,做,zuò,Do,Hacer,Casual
+19,说,shuō,Say,Decir,Casual
+20,去,qù,Go,Ir,Casual
+21,来,lái,Come,Venir,Casual
+22,看,kàn,See,Ver,Casual
+23,知道,zhīdào,Know,Saber,Casual
+24,能,néng,Can,Poder,Casual
+25,想,xiǎng,Want,Querer,Casual
+26,思考,sīkǎo,Think,Pensar,Casual
+27,拿,ná,Take,Tomar,Casual
+28,给,gěi,Give,Dar,Casual
+29,寻找,xúnzhǎo,Find,Encontrar,Casual
+30,穿,chuān,Wear,Usar,Casual
+31,工作,gōngzuò,Work,Trabajar,Casual
+32,称呼,chēnghu,Call,Llamar,Casual
+33,试图,shìtú,Attempt,Intentar,Casual
+34,问,wèn,Ask,Preguntar,Casual
+35,需要,xūyào,Need,Necesitar,Casual
+36,感觉,gǎnjué,Feel,Sentir,Casual
+37,离开,líkāi,Leave,Dejar,Casual
+38,放,fàng,Put,Poner,Casual
+39,保持,bǎochí,Keep,Mantener,Casual
+40,开始,kāishǐ,Begin,Empezar,Casual
+41,似乎,sìhū,Seem,Parecer,Casual
+42,帮助,bāngzhù,Help,Ayudar,Casual
+43,讲话,jiǎnghuà,Talk,Hablar,Casual
+44,居住,jūzhù,Live,Vivir,Casual
+45,相信,xiāngxìn,Believe,Creer,Casual
+46,带来,dàilái,Bring,Traer,Casual
+47,写,xiě,Write,Escribir,Casual
+48,提供,tígōng,Provide,Proveer,Casual
+49,感觉,gǎnjué,Feel,Sentarse,Casual
+50,停止,tíngzhǐ,Stop,Pararse,Casual
+51,跑步,pǎobù,Run,Correr,Casual
+52,走,zǒu,Walk,Caminar,Casual
+53,吃,chī,Eat,Comer,Casual
+54,喝,hē,Drink,Beber,Casual
+55,睡觉,shuìjiào,Sleep,Dormir,Casual
+56,打开,dǎkāi,Open,Abrir,Casual
+57,关闭,guānbì,Close,Cerrar,Casual
+58,买,mǎi,Buy,Comprar,Casual
+59,卖,mài,Sell,Vender,Casual
+60,想法,xiǎngfǎ,Thought,Pensamiento,Casual
+61,人,rén,Person,Persona,Casual
+62,时间,shíjiān,Time,Tiempo,Casual
+63,天,tiān,Day,Día,Casual
+64,年,nián,Year,Año,Casual
+65,男人,nánrén,Man,Hombre,Casual
+66,女性,nǚxìng,Women,Mujer,Casual
+67,孩子,háizi,Child,Niño,Casual
+68,朋友,péngyou,Friend,Amigo,Casual
+69,家,jiā,Home,Casa,Casual
+70,学校,xuéxiào,School,Escuela,Casual
+71,工作,gōngzuò,Job,Trabajo,Casual
+72,钱,qián,Money,Dinero,Casual
+73,水,shuǐ,Water,Agua,Casual
+74,一顿饭,yīdùnfàn,Meal,Comida,Casual
+75,地方,dìfāng,Place,Lugar,Casual
+76,城市,chéngshì,City,Ciudad,Casual
+77,国家,guójiā,Country,País,Casual
+78,世界,shìjiè,World,Mundo,Casual
+79,生活,shēnghuó,Life,Vida,Casual
+80,手,shǒu,Hand,Mano,Casual
+81,眼睛,yǎnjīng,Eye,Ojo,Casual
+82,头,tóu,Head,Cabeza,Casual
+83,姓名,xìngmíng,Name,Nombre,Casual
+84,数字,shùzì,Number,Número,Casual
+85,部分,bùfen,Part,Parte,Casual
+86,问题,wèntí,Problem,Problema,Casual
+87,制成,zhìchéng,Made,Hecho,Casual
+88,案件,ànjiàn,Case,Caso,Casual
+89,簇,cù,Cluster,Grupo,Casual
+90,系统,xìtǒng,System,Sistema,Casual
+91,程序,chéngxù,Program,Programa,Casual
+92,问,wèn,Ask,Pregunta,Casual
+93,回答,huídá,Answer,Respuesta,Casual
+94,大的,dà de,Big,Grande,Casual
+95,小的,xiǎo de,Little,Pequeño,Casual
+96,出色地,chūsè dì,Well,Bueno,Casual
+97,坏的,huài de,Bad,Malo,Casual
+98,新的,xīn de,New,Nuevo,Casual
+99,老的,lǎo de,Old,Viejo,Casual
+100,高的,gāo de,High,Alto,Casual
+101,低的,dī de,Low,Bajo,Casual
+102,第一的,dìyī de,First,Primero,Casual
+103,最后的,zuìhòu de,Last,Último,Casual
