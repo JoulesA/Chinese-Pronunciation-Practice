@@ -30,8 +30,7 @@ Evalúa tu pronunciación comparando lo que dices con la palabra objetivo median
 ### 1. Clonar repositorio
 
 ```bash
-git clone <tu-repo>
-cd <tu-repo>
+git clone https://github.com/JoulesA/Chinese-Pronunciation-Practice.git
 ```
 
 ---
@@ -46,8 +45,8 @@ source venv/bin/activate  # Mac/Linux
 
 
 ```bash
-conda create --name python=3.12  # Conda
-conda activate name
+conda create -n env python=3.12  # Conda
+conda activate env
 ```
 
 
