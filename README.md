@@ -46,7 +46,7 @@ source venv/bin/activate  # Mac/Linux
 
 
 ```bash
-conda create --name mi_entorno python=3.12  # Conda
+conda create --name python=3.12  # Conda
 conda activate name
 ```
 
